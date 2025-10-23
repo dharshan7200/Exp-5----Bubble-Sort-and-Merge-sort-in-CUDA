@@ -319,4 +319,4 @@ int main() {
 <img width="554" height="771" alt="image" src="https://github.com/user-attachments/assets/e8213dca-5a53-45cc-8a7c-f5dd10d9d6ac" />
 
 ## RESULT:
-Thus, the program has been executed using CUDA to ________________.
+Thus, the program has been executed using CUDA to implement Bubble Sort and Merge Sort on the GPU using CUDA and analyze the efficiency of this sorting algorithm when parallelized.
